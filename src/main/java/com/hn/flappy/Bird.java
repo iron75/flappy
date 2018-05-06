@@ -5,11 +5,11 @@ import processing.core.PApplet;
 public class Bird {
     PApplet p;
 
-    float x, y;
+   public float x, y;
     int size = 30;
 
     float gravity = 0.6f;
-    float velocity = 0;
+    public float velocity = 0;
     float lift = 15;
 
 
