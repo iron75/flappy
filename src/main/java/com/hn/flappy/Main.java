@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Hello world!
+ * test
  */
 public class Main extends PApplet {
     Bird bird;
