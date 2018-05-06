@@ -14,7 +14,7 @@ public class Main extends PApplet {
 
 
     public static void main(String[] args) {
-        PApplet.main("Main", args);
+        PApplet.main("com.hn.flappy.Main", args);
     }
 
     @Override
