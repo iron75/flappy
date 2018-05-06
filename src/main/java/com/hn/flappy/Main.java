@@ -1,4 +1,4 @@
-package com.hn;
+package com.hn.flappy;
 
 import processing.core.PApplet;
 
@@ -14,7 +14,7 @@ public class Main extends PApplet {
 
 
     public static void main(String[] args) {
-        PApplet.main("com.hn.Main", args);
+        PApplet.main("Main", args);
     }
 
     @Override

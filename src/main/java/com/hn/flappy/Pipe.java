@@ -1,4 +1,4 @@
-package com.hn;
+package com.hn.flappy;
 
 import processing.core.PApplet;
 
